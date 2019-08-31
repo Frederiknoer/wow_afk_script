@@ -22,5 +22,6 @@ C:\python27\python.exe C:\Users\Frederik\Documents\wow_afk_script-master\afk.py
 
 ```
 
+Enter the world, start script from cmd or terminal writing:
+'C:\python27\python.exe C:\Users\Frederik\Documents\wow_afk_script-master\afk.py'
 
-Enter the world, start script from cmd or terminal writing 'python afk.py'
