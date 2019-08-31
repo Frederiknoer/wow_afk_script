@@ -6,6 +6,9 @@ A 'keep-not-afk-script' for World of Warcraft
 $ git clone https://github.com/Frederiknoer/wow_afk_script
 ```
 ```
+$ python get-pip.py
+```
+```
 $ pip install -e .
 ```
 
