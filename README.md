@@ -1,4 +1,4 @@
-# pygridmas
+# wow-afk
 A 'keep-not-afk-script' for World of Warcraft 
 ### install
 
