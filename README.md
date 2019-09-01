@@ -15,7 +15,7 @@ cd\
 cd python27\Scripts 
 ```
 ```
-pip install pynput
+pip install pyuserinput
 ```
 ```
 C:\python27\python.exe C:\Users\Frederik\Documents\wow_afk_script-master\afk.py
